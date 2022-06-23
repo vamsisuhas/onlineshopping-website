@@ -13,4 +13,5 @@ Firebase acts as a database for this project stores various informations such as
 ![authentication_vs](https://user-images.githubusercontent.com/91485241/175280874-6ede9449-012d-43e4-b3d2-b87dc581ee81.jpg)
 
 Stripe is a suite of APIs powering online payment processing and commerce solutions for internet businesses of all sizes. Accept payments and scale faster which has been used to accept payments for the website.
+
 ![stripepayments_vs](https://user-images.githubusercontent.com/91485241/175280978-6d81ed75-ee7a-4361-967e-d40b4b8cad56.jpg)
