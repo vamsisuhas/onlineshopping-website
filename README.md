@@ -2,7 +2,7 @@
 This project is made with a point of view that village products are not being given much of a value in the market and most of their products are inaccessible.So, considering this as a problem I have made an e-commerce website only for selling village products made by people there which are inaccessible to the people who are looking to get them enabling the products to reach national market which promotes their projects!
 
 Here is the visual video on how the app functions: 
-https://user-images.githubusercontent.com/91485241/175279625-f24f51c3-042a-4907-a165-517ba91835ec.mp4
+https://user-images.githubusercontent.com/91485241/175386927-8d23c3fb-1cf5-4e4f-981c-8c2d00151a38.mp4
 
 The techonologies used for building the project are HTML,CSS,Javascript,React,Firebase and stripe.
 
