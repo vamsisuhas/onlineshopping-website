@@ -1,4 +1,4 @@
-                                                              VILLAGE SHOW
+                                                VILLAGE SHOW
 This project is made with a point of view that village products are not being given much of a value in the market and most of their products are inaccessible.So, considering this as a problem I have made an e-commerce website only for selling village products made by people there which are inaccessible to the people who are looking to get them enabling the products to reach national market.
 
 Here is the visual video on how the app functions: 
